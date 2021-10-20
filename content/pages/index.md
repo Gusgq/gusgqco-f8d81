@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hola soy Gustavo Gomez.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Soy estudiante de Ing. Gestión empresarial, también estudiante en Platzi,
+      me encanta la tecnología actualmente trabajo en aprender parte del
+      frontend y backend del desarrollo web.
     actions:
       - label: Let's talk
         url: /contact
