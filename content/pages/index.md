@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Hola, soy Gustavo Gomez'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Hola mi nombre es Gustavo Gomez, soy estudiante de Ing. Gestión empresarial, tambien soy estudiante de Platzi, apasionado por la tecnología, actualmente trabajo en aprender todo sobre el frontend y backend del desarrollo web. 
     actions:
       - label: Let's talk
         url: /contact
